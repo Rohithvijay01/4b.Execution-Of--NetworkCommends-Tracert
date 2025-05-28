@@ -31,9 +31,11 @@ from scapy.all import*
 target = ["www.google.com"] 
 result, unans = traceroute(target,maxttl=32) 
 print(result,unans) 
+
 OUTPUT
 
-image
+
+<img width="825" alt="Screenshot 2025-05-28 at 6 34 04 AM" src="https://github.com/user-attachments/assets/dc00185c-9556-4bf8-900f-c014eab029fa" />
 
 RESULT
 
